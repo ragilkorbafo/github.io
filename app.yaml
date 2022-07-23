@@ -10,3 +10,11 @@ handlers:
 - url: /(.*)
   static_files: www/\1
   upload: www/(.*)
+
+- url: /
+  static_files: css/style.css
+  upload: css/style.css
+
+- url: /(.*)
+  static_files: css\1
+  upload: css/(.*)
