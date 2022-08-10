@@ -13,7 +13,7 @@
   --red: #dc3545;
   --orange: #e7b100;
   --yellow: #f3d85e;
-  --green: #28a745;
+  --green: #033e6e;
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
@@ -6355,8 +6355,10 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f3d85e !important;
-}
+  background-color:#0c5460
+  !important;
+} 
+/* WARNA BACKGROUND */
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
